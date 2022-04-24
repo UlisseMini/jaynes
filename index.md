@@ -65,3 +65,17 @@ I **strongly** recommend you skim most of the proof as it's very hard to follow 
 Aubrey Clayton [agrees](https://youtu.be/xAbU0lHSxcg?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) and explains why Jaynes goes to this much trouble.
 
 I also have a [lesswrong post](https://www.lesswrong.com/posts/dnn9WhpRecqeRKYhd/don-t-be-afraid-of-the-thousand-year-old-vampire) with my take on why Cox's theorem is philosophically interesting.
+
+The commentary provided [here](https://ksvanhorn.com/bayes/jaynes/node5.html#SECTION00052000000000000000) is also good to read.
+
+### Godel’s theorem
+
+Jaynes states that
+
+> These considerations seem to open up the possibility that, by going into a wider field by invoking principles external to probability theory, one might be able to prove the consistency of our rules. At the moment, this appears to us to be an open question.
+
+See the commentary [here](https://ksvanhorn.com/bayes/jaynes/node5.html#SECTION00053000000000000000)
+
+> Actually, it is not an open question: the rules of probability theory can easily be proven consistent, and the proof can be found in any undergraduate mathematical text discussing set-theoretic probability theory.
+
+<!-- TODO: Include proof of consistency? Do the functional equation arguments imply consistency? -->
