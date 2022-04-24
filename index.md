@@ -1,5 +1,6 @@
 ---
 title: "Jaynes"
+author: "Ulisse Mini"
 description: 'Study guide and resources for "Probability Theory: The Logic of Science" by E.T. Jaynes.'
 ---
 
@@ -11,6 +12,10 @@ description: 'Study guide and resources for "Probability Theory: The Logic of Sc
 I recommend reading my summary of each chapter **before reading the chapter**, occasionally Jaynes explains things terribly, and you want to know about that ahead of time.
 
 You should also check out the [Lectures by Aubrey Clayton](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_) which follow Jaynes, they're great, I recommend you watch them all (at 3x speed with occasional rewinding).
+
+Another useful resource is this [Unofficial Errata and Commentary](https://ksvanhorn.com/bayes/jaynes/index.html)
+
+<!-- TODO: Mention delta notation when jaynes starts using it !-->
 
 ## Plausible reasoning
 
