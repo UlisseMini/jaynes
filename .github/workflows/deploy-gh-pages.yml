@@ -14,8 +14,10 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Build
+      - name: Setup pandoc
         uses: nikeee/setup-pandoc@v1
+      
+      - name: Make
         run: make
 
       - name: Deploy
